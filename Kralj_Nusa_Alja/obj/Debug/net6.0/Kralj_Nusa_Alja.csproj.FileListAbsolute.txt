@@ -1,0 +1,15 @@
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/bin/Debug/net6.0/Kralj_Nusa_Alja
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/bin/Debug/net6.0/Kralj_Nusa_Alja.deps.json
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/bin/Debug/net6.0/Kralj_Nusa_Alja.runtimeconfig.json
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/bin/Debug/net6.0/Kralj_Nusa_Alja.dll
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/bin/Debug/net6.0/Kralj_Nusa_Alja.pdb
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/obj/Debug/net6.0/Kralj_Nusa_Alja.csproj.AssemblyReference.cache
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/obj/Debug/net6.0/Kralj_Nusa_Alja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/obj/Debug/net6.0/Kralj_Nusa_Alja.AssemblyInfoInputs.cache
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/obj/Debug/net6.0/Kralj_Nusa_Alja.AssemblyInfo.cs
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/obj/Debug/net6.0/Kralj_Nusa_Alja.csproj.CoreCompileInputs.cache
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/obj/Debug/net6.0/Kralj_Nusa_Alja.dll
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/obj/Debug/net6.0/refint/Kralj_Nusa_Alja.dll
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/obj/Debug/net6.0/Kralj_Nusa_Alja.pdb
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/obj/Debug/net6.0/Kralj_Nusa_Alja.genruntimeconfig.cache
+/Users/nusakralj/Projects/Kralj_Nusa_Alja/Kralj_Nusa_Alja/obj/Debug/net6.0/ref/Kralj_Nusa_Alja.dll

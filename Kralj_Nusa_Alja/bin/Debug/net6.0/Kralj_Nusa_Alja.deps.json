@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kralj_Nusa_Alja/1.0.0": {
+        "runtime": {
+          "Kralj_Nusa_Alja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kralj_Nusa_Alja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
